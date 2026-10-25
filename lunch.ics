@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kinkaid LS Lunch//SAGE Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kinkaid LS Lunch
+X-WR-CALDESC:Unofficial Kinkaid Lower School lunch menu from SAGE Dining
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261109@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Lunch: Meatballs / All-Beef Hot Dogs with Bun / Turkey and American
+  Cheese Sandwich / Ham and Cheese Sandwich / Jelly Sandwich
+DESCRIPTION:Entrées: Meatballs\, All-Beef Hot Dogs with Bun\, Turkey and A
+ merican Cheese Sandwich\, Ham and Cheese Sandwich\, Jelly Sandwich\nSoups
+ : Chicken and Corn Chowder\nSalads: Garden Salad with House-Roasted Chick
+ en Salad\, Chef's Salad\, Chicken and Butternut Squash Green Salad\nSides
+  and Vegetables: Roasted Chickpeas\, Spaghetti\, Marinara Sauce\, Pasta (
+ GF)\, Sautéed Yellow Squash\nDesserts: Assorted Fresh Fruit\nSource: htt
+ ps://www.sagedining.com/sites/kinkaid/menu\nMenus are subject to change.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261110@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Lunch: Kung Pao Chicken / Grilled Hamburgers with Bun / Turkey and 
+ American Cheese Sandwich / Ham and Cheese Sandwich / Jelly Sandwich
+DESCRIPTION:Entrées: Kung Pao Chicken\, Grilled Hamburgers with Bun\, Turk
+ ey and American Cheese Sandwich\, Ham and Cheese Sandwich\, Jelly Sandwic
+ h\nSoups: Yakamein Soup\nSalads: Chef's Salad with Ranch Dressing\, Coles
+ law\, Jicama-Pineapple Salad\nSides and Vegetables: Lentils\, Jasmine Sti
+ cky Rice\, Honey-Ginger Carrots\nDesserts: Assorted Fresh Fruit\nSource: 
+ https://www.sagedining.com/sites/kinkaid/menu\nMenus are subject to chang
+ e.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261111@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Lunch: Beef Tacos in Crisp Corn Shells / Baked Breaded Chicken Sand
+ wich / Gallo Pinto (Costa Rican Black Beans and Rice) / Turkey and Americ
+ an Cheese Sandwich / Ham and Cheese Sandwich / Jelly Sandwich
+DESCRIPTION:Entrées: Beef Tacos in Crisp Corn Shells\, Baked Breaded Chick
+ en Sandwich\, Gallo Pinto (Costa Rican Black Beans and Rice)\, Turkey and
+  American Cheese Sandwich\, Ham and Cheese Sandwich\, Jelly Sandwich\nSou
+ ps: Sopa de Lima con Pollo y Elote (Chicken\, Corn & Lime Soup)\nSalads: 
+ Southwestern Chicken Salad\, Mesclun Edamame Salad with Green Goddess Dre
+ ssing\, Cucumber and Tomato Salad\nSides and Vegetables: Roasted Corn\, S
+ teamed Peas\nDesserts: Assorted Fresh Fruit\nSource: https://www.sagedini
+ ng.com/sites/kinkaid/menu\nMenus are subject to change.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261112@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Lunch: Ham / Scrambled Eggs / Belgian Waffle Sticks / Strawberry Yo
+ gurt (Low-Fat) / Bacon / Baked Turkey Sausage / Turkey and American Chees
+ e Sandwich / Ham and Cheese Sandwich / Jelly Sandwich
+DESCRIPTION:Entrées: Ham\, Scrambled Eggs\, Belgian Waffle Sticks\, Strawb
+ erry Yogurt (Low-Fat)\, Bacon\, Baked Turkey Sausage\, Turkey and America
+ n Cheese Sandwich\, Ham and Cheese Sandwich\, Jelly Sandwich\nSoups: Chee
+ seburger Macaroni Soup\nSalads: Kale Salad\, Chicken and Bacon Romaine Sa
+ lad\, Honey Mustard Barley and Cranberry Salad\nSides and Vegetables: Roa
+ sted Sweet Potatoes\, Breakfast Potatoes\, Steamed Green Beans\nDesserts:
+  Assorted Fresh Fruit\nSource: https://www.sagedining.com/sites/kinkaid/m
+ enu\nMenus are subject to change.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261116@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Lunch: Thyme-Roasted Chicken / Chicken Alfredo Bake / Philly-Style 
+ Cheesesteak / Baked Manicotti / Turkey and American Cheese Sandwich / Ham
+  and Cheese Sandwich / Jelly Sandwich
+DESCRIPTION:Entrées: Thyme-Roasted Chicken\, Chicken Alfredo Bake\, Philly
+ -Style Cheesesteak\, Baked Manicotti\, Turkey and American Cheese Sandwic
+ h\, Ham and Cheese Sandwich\, Jelly Sandwich\nSoups: Creamy Tomato-Basil 
+ Soup\nSalads: Moroccan Lentil and Chickpea Salad\, Balsamic Chicken and A
+ pple Salad\, Quinoa and Green Grape Salad\nSides and Vegetables: Seasoned
+  Green Beans\nDesserts: Assorted Fresh Fruit\nSource: https://www.sagedin
+ ing.com/sites/kinkaid/menu\nMenus are subject to change.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261117@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Lunch: Herb-Roasted Turkey Breast / Grilled Chicken Adobo / Baked B
+ readed Chicken Fillet / Turkey and American Cheese Sandwich / Ham and Che
+ ese Sandwich / Jelly Sandwich
+DESCRIPTION:Entrées: Herb-Roasted Turkey Breast\, Grilled Chicken Adobo\, 
+ Baked Breaded Chicken Fillet\, Turkey and American Cheese Sandwich\, Ham 
+ and Cheese Sandwich\, Jelly Sandwich\nSoups: Spiced Sweet Potato Soup\nSa
+ lads: Cucumber\, Tomato\, and Jicama Salad\, Spiced Chickpeas\, Kale Sala
+ d with Root Vegetables and Apple (GF)\, Jicama\, Cucumber\, and Mango Sal
+ ad\nSides and Vegetables: Mexican Rice with Fresh Tomatoes\, Simmered Cha
+ rro Beans\, Buttered Carrots\nDesserts: Assorted Fresh Fruit\nSource: htt
+ ps://www.sagedining.com/sites/kinkaid/menu\nMenus are subject to change.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261118@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Lunch: Fajita Chicken Breast / Chicken-Fried Steak / Grilled Cheese
+  / Turkey and American Cheese Sandwich / Ham and Cheese Sandwich / Jelly 
+ Sandwich
+DESCRIPTION:Entrées: Fajita Chicken Breast\, Chicken-Fried Steak\, Grilled
+  Cheese\, Turkey and American Cheese Sandwich\, Ham and Cheese Sandwich\,
+  Jelly Sandwich\nSoups: Beef and Barley Soup\nSalads: Southwestern Corn a
+ nd Avocado Salad\, Broccoli Barley Salad\, Spinach\, Bacon\, Cheddar\, an
+ d Egg Salad\nSides and Vegetables: Garlic Mashed Red Potatoes\, Steamed B
+ roccolini\nDesserts: Assorted Fresh Fruit\nSource: https://www.sagedining
+ .com/sites/kinkaid/menu\nMenus are subject to change.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261119@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Lunch: Ham / House-Breaded General Tso's Chicken / Grilled Hamburge
+ rs with Bun / Turkey and American Cheese Sandwich / Ham and Cheese Sandwi
+ ch / Jelly Sandwich
+DESCRIPTION:Entrées: Ham\, House-Breaded General Tso's Chicken\, Grilled H
+ amburgers with Bun\, Turkey and American Cheese Sandwich\, Ham and Cheese
+  Sandwich\, Jelly Sandwich\nSoups: Cream of Broccoli Soup\nSalads: Three-
+ Bean Salad\, The Green Salad with Avocado Green Goddess Dressing\, Wheat 
+ Berry and Cranberry Salad\nSides and Vegetables: White Rice\, Sautéed Ye
+ llow Squash\nDesserts: Assorted Fresh Fruit\nSource: https://www.sagedini
+ ng.com/sites/kinkaid/menu\nMenus are subject to change.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261120@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Lunch: Quinoa with Fresh Herbs / Smoked Brisket / Cheese Pizza / Sm
+ oked Gouda Mac & Cheese / Turkey and American Cheese Sandwich / Ham and C
+ heese Sandwich / Jelly Sandwich
+DESCRIPTION:Entrées: Quinoa with Fresh Herbs\, Smoked Brisket\, Cheese Piz
+ za\, Smoked Gouda Mac & Cheese\, Turkey and American Cheese Sandwich\, Ha
+ m and Cheese Sandwich\, Jelly Sandwich\nSoups: Chicken and Wild Rice Soup
+ \nSalads: Chicken\, Bacon\, and Ranch Salad with English Cucumbers\, Appl
+ e and Cranberry Turkey Salad\, Caesar Salad\nSides and Vegetables: Creame
+ d Spinach\nDesserts: Assorted Fresh Fruit\, Chocolate Chip Cookies\nSourc
+ e: https://www.sagedining.com/sites/kinkaid/menu\nMenus are subject to ch
+ ange.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261123@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Lunch: Grilled Chicken Breast / Chicken Parm / Cheese Ravioli with 
+ Marinara / Turkey and American Cheese Sandwich / Ham and Cheese Sandwich 
+ / Jelly Sandwich
+DESCRIPTION:Entrées: Grilled Chicken Breast\, Chicken Parm\, Cheese Raviol
+ i with Marinara\, Turkey and American Cheese Sandwich\, Ham and Cheese Sa
+ ndwich\, Jelly Sandwich\nSoups: Three Sisters Soup\nSalads: Sante Fe Sala
+ d\, Edamame Salad\, Bacon and Spinach Caesar Pasta Salad\nSides and Veget
+ ables: Roasted Fingerling Potatoes\, Seasoned Asparagus\nDesserts: Assort
+ ed Fresh Fruit\nSource: https://www.sagedining.com/sites/kinkaid/menu\nMe
+ nus are subject to change.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261124@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Lunch: Fajita Chicken Breast / Blackened Cajun Catfish / Honey Butt
+ er Chicken Biscuit / Red Beans and Brown Rice / Turkey and American Chees
+ e Sandwich / Ham and Cheese Sandwich / Jelly Sandwich
+DESCRIPTION:Entrées: Fajita Chicken Breast\, Blackened Cajun Catfish\, Hon
+ ey Butter Chicken Biscuit\, Red Beans and Brown Rice\, Turkey and America
+ n Cheese Sandwich\, Ham and Cheese Sandwich\, Jelly Sandwich\nSoups: Corn
+  Chowder\nSalads: Vegetable Fajita Salad with Avocado\, Italian Garden Sa
+ lad\, Cucumber Salad\nSides and Vegetables: Roasted Corn\, Creamed Corn\n
+ Desserts: Assorted Fresh Fruit\nSource: https://www.sagedining.com/sites/
+ kinkaid/menu\nMenus are subject to change.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261125@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Lunch: Delhi Chicken Korma / Grilled Hamburgers with Bun / Coconut 
+ Rice with Pigeon Peas / Turkey and American Cheese Sandwich / Jelly Sandw
+ ich / Ham and Cheese Sandwich
+DESCRIPTION:Entrées: Delhi Chicken Korma\, Grilled Hamburgers with Bun\, C
+ oconut Rice with Pigeon Peas\, Turkey and American Cheese Sandwich\, Jell
+ y Sandwich\, Ham and Cheese Sandwich\nSoups: Beef Brisket and Vegetable S
+ oup\nSalads: Garden Salad with House-Roasted Chicken Salad\, Loaded Baked
+  Potato Salad\, Wheat Berry Salad with Feta and Grapes\nSides and Vegetab
+ les: Roasted Corn\, Sautéed Zucchini\nDesserts: Assorted Fresh Fruit\nSo
+ urce: https://www.sagedining.com/sites/kinkaid/menu\nMenus are subject to
+  change.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261126@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Lunch: House-Roasted Turkey Breast / Chicken Fajitas (GF) / Ham and
+  Cheese Croissant / Turkey and American Cheese Sandwich / Ham and Cheese 
+ Sandwich / Jelly Sandwich
+DESCRIPTION:Entrées: House-Roasted Turkey Breast\, Chicken Fajitas (GF)\, 
+ Ham and Cheese Croissant\, Turkey and American Cheese Sandwich\, Ham and 
+ Cheese Sandwich\, Jelly Sandwich\nSoups: Creamy Chicken and Wild Rice Sou
+ p\nSalads: Vegetarian Southwestern Salad\, Mandarin\, Edamame\, and Chick
+ en Salad\, Kale Caesar Salad\nSides and Vegetables: House-Made Refried Be
+ ans\, Fiesta Rice\, Steamed Yellow Squash\, Flour Tortillas (6 inch)\nDes
+ serts: Assorted Fresh Fruit\nSource: https://www.sagedining.com/sites/kin
+ kaid/menu\nMenus are subject to change.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+BEGIN:VEVENT
+UID:kinkaid-ls-lunch-20261127@theresie13.github.io
+DTSTAMP:20261025T202455Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Lunch: Baked Maple Salmon / Cheese Pizza / Turkey and American Chee
+ se Sandwich / Ham and Cheese Sandwich / Jelly Sandwich
+DESCRIPTION:Entrées: Baked Maple Salmon\, Cheese Pizza\, Turkey and Americ
+ an Cheese Sandwich\, Ham and Cheese Sandwich\, Jelly Sandwich\nSoups: Ita
+ lian Sausage and Tortellini Soup\nSalads: Spinach Salad with Chicken and 
+ Squash\, Greek Salad with Feta and Olives\, Orzo and Kale Salad\nSides an
+ d Vegetables: Buttered Pasta\, Steamed Spinach\nDesserts: Assorted Fresh 
+ Fruit\, Chocolate Cake with Chocolate Frosting\nSource: https://www.saged
+ ining.com/sites/kinkaid/menu\nMenus are subject to change.
+URL:https://www.sagedining.com/sites/kinkaid/menu
+END:VEVENT
+END:VCALENDAR
