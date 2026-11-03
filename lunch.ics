@@ -6,24 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kinkaid LS Lunch
 X-WR-CALDESC:Unofficial Kinkaid Lower School lunch menu from SAGE Dining
 BEGIN:VEVENT
-UID:kinkaid-ls-lunch-20261102@theresie13.github.io
-DTSTAMP:20261102T125028Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Lunch: Baked Penne with Roasted Chicken / Meatball Sub / Turkey and
-  American Cheese Sandwich / Ham and Cheese Sandwich / Jelly Sandwich
-DESCRIPTION:Entrées: Baked Penne with Roasted Chicken\, Meatball Sub\, Tur
- key and American Cheese Sandwich\, Ham and Cheese Sandwich\, Jelly Sandwi
- ch\nSoups: Italian Wedding Soup\nSalads: House-Roasted Chicken and Corn S
- alad\, Caesar Salad\, Balsamic Brown Rice and Bean Salad\nSides and Veget
- ables: Smile Fries\, Steamed Broccoli\nDesserts: Fresh Avocado\, Assorted
-  Fresh Fruit\nSource: https://www.sagedining.com/sites/kinkaid/menu\nMenu
- s are subject to change.
-URL:https://www.sagedining.com/sites/kinkaid/menu
-END:VEVENT
-BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261103@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Lunch: House-Roasted Turkey Breast / House-Roasted Beef with Gravy 
@@ -41,7 +25,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261104@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Lunch: Thyme-Roasted Chicken / Baked Mediterranean-Style Tilapia / 
@@ -59,7 +43,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261105@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Lunch: Chicken Enchilada Casserole / Grilled Hamburgers with Bun / 
@@ -76,7 +60,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261106@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Lunch: Thyme-Roasted Chicken / BBQ Chicken Drumsticks / Cheese Pizz
@@ -94,7 +78,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261109@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Lunch: Meatballs / All-Beef Hot Dogs with Bun / Turkey and American
@@ -110,7 +94,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261110@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Lunch: Kung Pao Chicken / Grilled Hamburgers with Bun / Turkey and 
@@ -126,7 +110,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261111@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Lunch: Beef Tacos in Crisp Corn Shells / Baked Breaded Chicken Sand
@@ -144,7 +128,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261112@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Lunch: Ham / Scrambled Eggs / Belgian Waffle Sticks / Strawberry Yo
@@ -162,7 +146,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261116@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Lunch: Thyme-Roasted Chicken / Chicken Alfredo Bake / Philly-Style 
@@ -179,7 +163,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261117@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Lunch: Herb-Roasted Turkey Breast / Grilled Chicken Adobo / Baked B
@@ -197,7 +181,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261118@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Lunch: Fajita Chicken Breast / Chicken-Fried Steak / Grilled Cheese
@@ -214,7 +198,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261119@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Lunch: Ham / House-Breaded General Tso's Chicken / Grilled Hamburge
@@ -231,7 +215,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261120@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lunch: Quinoa with Fresh Herbs / Smoked Brisket / Cheese Pizza / Sm
@@ -249,7 +233,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261123@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Lunch: Grilled Chicken Breast / Chicken Parm / Cheese Ravioli with 
@@ -266,7 +250,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261124@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Lunch: Fajita Chicken Breast / Blackened Cajun Catfish / Honey Butt
@@ -283,7 +267,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261125@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Lunch: Delhi Chicken Korma / Grilled Hamburgers with Bun / Coconut 
@@ -301,7 +285,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261126@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Lunch: House-Roasted Turkey Breast / Chicken Fajitas (GF) / Ham and
@@ -319,7 +303,7 @@ URL:https://www.sagedining.com/sites/kinkaid/menu
 END:VEVENT
 BEGIN:VEVENT
 UID:kinkaid-ls-lunch-20261127@theresie13.github.io
-DTSTAMP:20261102T125028Z
+DTSTAMP:20261103T124938Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Lunch: Baked Maple Salmon / Cheese Pizza / Turkey and American Chee
